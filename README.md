@@ -48,3 +48,4 @@ plot(w/pi,abs(h),'ms');
 
 
 ## RESULT:
+<img width="1600" height="702" alt="image" src="https://github.com/user-attachments/assets/16a6e4d6-27b3-42ff-8388-bed58e7fa509" />
